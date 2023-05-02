@@ -1,0 +1,15 @@
+title: Jason Chafin
+description: >
+  Jason Chafin's personal site
+url: "https://Herm71.github.io/herm71-personal/"
+theme: minima
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-assets
+
+# Build settings
+markdown: kramdown
+kramdown:
+  auto_ids: false
+  parse_block_html: false
