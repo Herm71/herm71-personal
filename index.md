@@ -7,7 +7,7 @@ I currently live in Santa Cruz, CA. I became a professional web developer in 201
 
 Prior to entering the web development field, I was in the urban planning field. I spent over a decade as a planning consultant, working throughout the Monterey and San Francisco Bay Areas, primarily for public agencies (cities, counties, coastal commissions, port authorities).
 
-I began my web development career as a [WordPress](https://wordpress.org/) developer and WordPress is still my "first love" when it comes to web technology. Since then, however, I have created sites using a variety of web technologies, including Drupal, React, Vue and Jekyll.
+I began my web development career as a [WordPress](https://wordpress.org/) [developer](https://www.hyperarts.com/) and WordPress is still my "first love" when it comes to web technology. Since then, however, I have created sites using a variety of web technologies, including Drupal, React, Vue and Jekyll.
 
 As a Senior Web Developer for UC Santa Cruz, I manage a portfolio of campus web properties and contribute to the design, development and maintenance of the UC Santa Cruz brand.
 
