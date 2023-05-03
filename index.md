@@ -3,7 +3,7 @@ layout: default
 home: true
 ---
 
-I currently live in Santa Cruz, CA. I've been a professional web developer since 2011. In 2017, became the [Senior Web Developer](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin) on the [Communications & Marketing](https://communications.ucsc.edu) team at UC Santa Cruz.
+I currently live in Santa Cruz, CA. I became a professional web developer in 2011. In 2017, became the [Senior Web Developer](https://campusdirectory.ucsc.edu/cd_detail?uid=jchafin) on the [Communications & Marketing](https://communications.ucsc.edu) team at UC Santa Cruz.
 
 Prior to entering the web development field, I was in the urban planning field. I spent over a decade as a planning consultant, working throughout the Monterey and San Francisco Bay Areas, primarily for public agencies (cities, counties, coastal commissions, port authorities).
 
