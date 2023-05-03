@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Another Page
+title: false
 ---
 here is another page.
