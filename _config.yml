@@ -13,3 +13,16 @@ markdown: kramdown
 kramdown:
   auto_ids: false
   parse_block_html: false
+  
+social:
+  github:
+    - user: "@Herm71"
+      url: "https://github.com/Herm71"
+  linkedin:
+    - user: this
+      url: that
+  ucsc:
+    - user: this
+      url: that
+      
+  
