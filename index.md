@@ -17,6 +17,6 @@ Portfolio examples include:
 - [Events Calendar](https://events.ucsc.edu/) ([Localist](https://www.localist.com/))
 - [Giving to UC Santa Cruz](https://giving.ucsc.edu/)
 - [UC Santa Cruz Ethics Bowl](https://reports.news.ucsc.edu/ethics-bowl/)
-- ["inquiry@ucsantacruz"](https://inquiry.ucsc.edu/)
+- [inquiry@ucsantacruz](https://inquiry.ucsc.edu/)
 
 I am currently working on UC Santa Cruz's rebranding and re-platforming project. The bulk of my work on this project is assisting in the development of a [custom WordPress block theme](https://github.com/ucsc/ucsc-2022).
